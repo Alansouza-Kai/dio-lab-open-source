@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Alan de Souza Bezerra
 
-🎮 **Especialista em Games, Análise de Dados, auditoria,  e Suporte Técnico**
+🎮 **Especialista em Auditoria em Games, Análise de Dados, Auditoria de ferramentas e Suporte Técnico**
 💼 9+ anos de experiência em atendimento técnico, auditoria de jogos, análise antifraude e automação de processos
 📧 [alllam\_sousa@hotmail.com](mailto:alllam_sousa@hotmail.com)
 
